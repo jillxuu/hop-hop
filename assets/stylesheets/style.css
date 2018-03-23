@@ -1,28 +1,58 @@
 body {
-  text-align: right;
+  /* text-align: right; */
   background-image: url('../images/gray.png');
   /* background-repeat: no-repeat; */
   background-size: 100%;
-
-
 }
 
 canvas{
   margin-top: 10px;
-  border: 6px solid #A9A9A9;
+  border: 6px solid transparent;
   border-radius: 6px;
-  /* margin-left: auto; */
-  margin-right: 220px;
+  padding-left: 200px;
 }
 
-
-button{ border:none; cursor:pointer; outline:none; }
-button#playpausebtn{
-	background:url('../images/pause.png') no-repeat;
-	width:12px;
-	height:14px;
+.both{
+  display: flex;
+  justify-content: space-around;
 }
-button#mutebtn{
-	background:url('../images/speaker.png') no-repeat;
-	width:5px;
-	height:14px;
+
+container{
+  margin-top: 400px;
+  display: block;
+  padding-left: 30px;
+  /* margin-left: 100px; */
+}
+
+.github{
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.linkedin{
+  display: flex;
+  margin-bottom: 10px;
+
+}
+
+.portfolio{
+  display: flex;
+}
+img{
+  margin-right: 10px;
+}
+
+a{
+  font-size: 25px;
+  text-decoration: none;
+  color: white;
+  font-family: Comic Sans MS;
+}
+
+p{
+  font-family: Comic Sans MS;
+  font-weight: 700;
+  font-size: 30px;
+  color: white;
+  /* width: 300px; */
+}
