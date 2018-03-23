@@ -1,6 +1,6 @@
 body {
   /* text-align: right; */
-  background-image: url('../images/gray.png');
+  background-image: url('../images/red.jpg');
   /* background-repeat: no-repeat; */
   background-size: 100%;
 }
@@ -9,7 +9,7 @@ canvas{
   margin-top: 10px;
   border: 6px solid transparent;
   border-radius: 6px;
-  padding-left: 200px;
+  /* padding-left: 200px; */
 }
 
 .both{
@@ -18,7 +18,7 @@ canvas{
 }
 
 container{
-  margin-top: 400px;
+  /* margin-top: 400px; */
   display: block;
   padding-left: 30px;
   /* margin-left: 100px; */
@@ -55,4 +55,10 @@ p{
   font-size: 30px;
   color: white;
   /* width: 300px; */
+}
+
+span{
+  font-weight: 300;
+  font-size: 20px;
+  color:black;
 }
