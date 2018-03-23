@@ -14,3 +14,15 @@ canvas{
   /* margin-left: auto; */
   margin-right: 220px;
 }
+
+
+button{ border:none; cursor:pointer; outline:none; }
+button#playpausebtn{
+	background:url('../images/pause.png') no-repeat;
+	width:12px;
+	height:14px;
+}
+button#mutebtn{
+	background:url('../images/speaker.png') no-repeat;
+	width:5px;
+	height:14px;
