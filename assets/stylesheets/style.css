@@ -1,12 +1,16 @@
 body {
-  text-align: center;
-  margin: 0px;
-  padding: 0px;
+  text-align: right;
+  background-image: url('../images/gray.png');
+  /* background-repeat: no-repeat; */
+  background-size: 100%;
+
+
 }
 
 canvas{
-  margin-top: 20px;
-  border: 1px solid #000;
-  margin-left: auto;
-  margin-right: auto;
+  margin-top: 10px;
+  border: 6px solid #A9A9A9;
+  border-radius: 6px;
+  /* margin-left: auto; */
+  margin-right: 220px;
 }
