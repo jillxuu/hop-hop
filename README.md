@@ -8,7 +8,7 @@ Hop-hop is a javascript jumping game using canvas that player is aiming to jump 
 
 With this Hop-hop game, users will be able to:
 
-- [ ] Start, pause, and reset the game board
+- [ ] Start and reset the game board
 - [ ] Use left and right arrows key on keyboard to decide which panel to land in order to jump upward
 - [ ] Move across left and right border to reach the other side
 - [ ] Jump in different speeds when stepping on different types of platforms
@@ -23,7 +23,7 @@ In addition, this project will include:
 This app will consist of a single screen with game board, game controls, and nav links to the Github, my LinkedIn,
 and the About modal.  Game controls will include Start, Stop, and Reset buttons.
 
-![Wireframe](https://imgur.com/RuzsJf8.png)
+![Wireframe](https://i.imgur.com/zjjKITS.png)
 
 ### Architecture and Technologies
 
@@ -31,6 +31,16 @@ This project will be implemented with the following technologies:
 
 - `JavaScript` for game logic,
 - 'Sprite Canvas' to create animation.
+
+- Game Cover Canvas
+![Cover](https://i.imgur.com/ghfts8a.png)
+
+- Game Canvas
+![Game](https://i.imgur.com/cPrNey3.png)
+
+- Gameover Canvas
+![Gameover](https://i.imgur.com/k9s3dqp.png)
+
 
 In addition to the entry file, there will be four scripts involved in this project:
 
