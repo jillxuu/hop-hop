@@ -1,5 +1,7 @@
 # hop-hop
 
+### [Live](http://dongjinxu.com/hop-hop/)
+
 ### Background
 
 Hop-hop is a javascript jumping game using canvas that player is aiming to jump upward and never fall to the bottom of the canvas.
@@ -32,13 +34,13 @@ This project will be implemented with the following technologies:
 - `JavaScript` for game logic,
 - 'Sprite Canvas' to create animation.
 
-- Game Cover Canvas
+Game Cover Canvas
 ![Cover](https://i.imgur.com/ghfts8a.png)
 
-- Game Canvas
+Game Canvas
 ![Game](https://i.imgur.com/cPrNey3.png)
 
-- Gameover Canvas
+Gameover Canvas
 ![Gameover](https://i.imgur.com/k9s3dqp.png)
 
 
